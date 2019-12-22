@@ -1,0 +1,4 @@
+- Ajouts de commandes: >spam, >8ball et >google
+- Ajouts de logs avancés dans la console (informations sur le selfbot... etc)
+- Les commandes peuvent désormais être utilisées seulement par vous (seras réglable dans les paramètres en 1.29) suite à des problèmes de gens qui se sont fais purger
+leur messages par d'autres personnes.
